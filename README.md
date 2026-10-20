@@ -1,4 +1,4 @@
-# followme
+# InnoRadar
 
 A small set of standalone CLI scripts that discover GitHub repositories,
 grade them with a local **Ollama** model, then follow promising authors
